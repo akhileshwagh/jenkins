@@ -19,5 +19,6 @@ public class Demo {
 		int divide=mul/0;
 		
 		System.out.println("divide = " + divide);
+		System.out.println("divide = " + divide);
 	}
 }
